@@ -1,6 +1,6 @@
 ### Hi, I'm Mario Foglio 👋
 
-I'm the founder of **[@sas-quantome](https://github.com/sas-quantome)**, where I help life scientists and entrepreneurs transform noisy data into clarity: building knowledge graphs and data products from complex datasets.
+I'm the founder of **[Quantome SAS](https://github.com/sas-quantome)**, where I help life scientists and entrepreneurs transform noisy data into clarity: building knowledge graphs and data products from complex datasets.
 
 ---
 
