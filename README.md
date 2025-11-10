@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Mario Foglio 👋
 
-<!--
-**mariofoglio/mariofoglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the founder of **[@sas-quantome](https://github.com/sas-quantome)**, where I help life scientists and entrepreneurs transform noisy data into clarity: building knowledge graphs and data products from complex datasets.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 My Digital Toolbelt
+
+* **Public Showroom (GitHub):** This is where I host my open-source work and collaborate with the community. You'll find my Apache 2.0-licensed libraries pinned below.
+* **Private Factory (GitLab):** I use GitLab for all my private client work and secure, proprietary repositories.
+    * **[🔗 View my GitLab Profile](https://gitlab.com/mfoglio)**
+* **Company Website:** **[https://www.sas-quantome.com](https://www.sas-quantome.com)**
+
+---
+
+* 🚀 Taming Data Anxiety | Software & Data Engineer |
+* Founder @ **[@sas-quantome](https://github.com/sas-quantome)** | Making datasets relevant.
