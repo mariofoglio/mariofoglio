@@ -14,4 +14,4 @@ I'm the founder of **Quantome SAS**, where I help life scientists and entreprene
 ---
 
 * 🚀 Taming Data Anxiety | Software & Data Engineer |
-* Founder @ **[@sas-quantome](https://github.com/sas-quantome)** | Making datasets relevant.
+* Founder @ **Quantome SAS** | Making datasets relevant.
