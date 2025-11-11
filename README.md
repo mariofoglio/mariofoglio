@@ -20,4 +20,4 @@ Currently, I am navigating a dense technology transfer process to transform some
 
 ---
 
-#### Avatar image inspired by Claude Shannon’s Weaver Model.
+#### Avatar image inspired by Claude Shannon’s Weaver Model and Piet Mondrian.
