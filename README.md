@@ -19,3 +19,5 @@ Currently, I am navigating a dense technology transfer process to transform some
     * 🔗 **[https://www.sas-quantome.com](https://www.sas-quantome.com)**
 
 ---
+
+#### Avatar image inspired by Claude Shannon’s Weaver Model.
