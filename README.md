@@ -1,6 +1,6 @@
 ---
 
-### 🚀 Making sense out of data bit by bit
+### 🚀 Wire Up & No Noise
 
 I translate complex information into structured, interoperable data platforms for biotech and business use. 
 
