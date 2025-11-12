@@ -2,9 +2,9 @@
 
 ### 🚀 Wire Up & No Noise
 
-I translate complex information into structured, interoperable data platforms for biotech and business use. 
+I transform complex information into structured, interoperable data platforms for use in biotech and business applications. Organized in one place, portable, labelled, and accessible.
 
-Through Quantome SAS, a company I founded in Paris, I have written and maintain over 100 Go command-line applications in my GitLab proprietary repositories. I have also developed software in C and C++. I use Python for AI, and early in my career, I learned Java, Pascal, and Fortran.
+Through Quantome SAS, a company I founded in Paris, I have written and maintain over 100 Go command-line data processing applications in my GitLab proprietary repositories. I have also developed software in C and C++. I use Python for AI, and early in my career, I programmed in Java, Pascal, and Fortran.
 
 Currently, I am navigating a dense technology transfer process to transform some of my proprietary software into open-source products and services. I look forward to sharing these developments soon.
 
@@ -20,4 +20,4 @@ Currently, I am navigating a dense technology transfer process to transform some
 
 ---
 
-#### Avatar image inspired by Claude Shannon’s Weaver Model and Piet Mondrian.
+##### Avatar image inspired by Claude Shannon’s Weaver Model and Piet Mondrian.
