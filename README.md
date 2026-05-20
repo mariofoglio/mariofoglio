@@ -6,7 +6,7 @@ You may have collected valuable information, but you still don’t get the desir
 
 I transform complex information into structured, interoperable data platforms for use in biotech and business applications. Organized in one place, portable, labeled, and accessible.
 
-Through Quantome SAS, a company I founded in Paris, I have written and maintain over 100 Go command-line data-processing applications in my proprietary repositories. I have also developed software in C and C++. I use Python for machine learning, and early in my career, I programmed in Java, Pascal, and Fortran.
+Through Quantome SAS, a company I founded in Paris, I have written and maintain over 100 Go command-line data-processing applications in proprietary repositories. I have also developed software in C and C++. I use Python for machine learning, and early in my career, I programmed in Java, Pascal, and Fortran.
 
 Currently, I am experimenting with a dense array of AI technologies to build an agentic system capable of writing the complete code for Go Interlace applications. I look forward to sharing these developments soon.
 
