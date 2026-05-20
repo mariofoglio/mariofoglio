@@ -14,15 +14,31 @@ Currently, I am experimenting with a dense array of AI technologies to build an 
 
 ### 🧰 Technology
 
-- Go SDK
-- Go Interlace
-- Google Go API
-- Antigravity
-- JetBrains Toolbox
-- NotebookLM
-- DavinciResolve
-- Bioinformatics Tools
+- [Go SDK](https://golang.org)
+- [Go Interlace](https://github.com/sas-quantome)
+- [Google Go API](https://pkg.go.dev/google.golang.org/api)
+- [Antigravity](https://antigravity.google/)
+- [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)
+- [NotebookLM](https://notebooklm.google/)
+- [DavinciResolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- [Bioinformatics Tools](https://github.com/danielecook/Awesome-Bioinformatics)
 
 ---
 
-### 🗂️ Data
+### 🗂️ Datasets
+
+- [Ancestry category label distribution in the GWAS Catalog](https://www.ebi.ac.uk/gwas/docs/ancestry-data)
+- [NCBI ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)
+- [Google DeepMind AlphaMissense](https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/)
+- [EBI GWAS Catalog](https://www.ebi.ac.uk/gwas/)
+- [Gender, Sex, and Sexual Orientation ontology](https://obofoundry.org/ontology/gsso.html)
+- [NCBI GeneRIF](https://www.ncbi.nlm.nih.gov/gene/about-generif)
+- [Gene Ontology](https://www.geneontology.org/)
+- [Human Phenotype Ontology](https://hpo.jax.org/)
+- [NCBI MedGen](https://www.ncbi.nlm.nih.gov/medgen/)
+- [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
+- [NCBI Gene DB](https://www.ncbi.nlm.nih.gov/gene/)
+- [Ontology of Biological Attributes](https://github.com/obophenotype/bio-attribute-ontology)
+- [Reactome](https://reactome.org/)
+- [STRING DB](https://string-db.org/)
+- [UniProt](https://www.uniprot.org/)
