@@ -16,7 +16,7 @@ Currently, I am experimenting with a dense array of AI technologies to build an 
 
 - [Go SDK](https://golang.org)
 - [Go Interlace](https://github.com/sas-quantome)
-- [Google Go API](https://pkg.go.dev/google.golang.org/api)
+- [Google cloud API](https://cloud.google.com/apis)
 - [Antigravity](https://antigravity.google/)
 - [Gemma](https://deepmind.google/models/gemma/)
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)
