@@ -1,4 +1,4 @@
----
+***
 
 ### 🚀 Architecting Discovery Platforms & Data Refinement
 
@@ -13,7 +13,7 @@ What I'm Building:
 
 While my current focus is Go and AI-based architecture, my foundation spans C, C++, Python for machine learning, Java, Pascal, and Fortran.
 
----
+***
 
 ### 🧰 The Polymath Technology Stack
 
@@ -37,7 +37,7 @@ I build systems that synthesize software, biological data, and media. My current
 
 * [DavinciResolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
----
+***
 
 ### ⚕ Biomedical Data Playsets
 
@@ -59,7 +59,7 @@ I build systems that synthesize software, biological data, and media. My current
 * [STRING DB](https://string-db.org/)
 * [UniProt](https://www.uniprot.org/)
 
----
+***
 
 ### 🧪 Molecular Data Playsets
 
@@ -81,4 +81,4 @@ I build systems that synthesize software, biological data, and media. My current
 * [UniProtKB ID mappings](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/)
 * [UniProtKB human proteome annotations](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/genome_annotation_tracks/UP000005640_9606_beds/)
 
----
+***
