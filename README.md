@@ -2,7 +2,9 @@
 
 ### 🚀 Data Refinement
 
-You may have collected valuable information, but you still don’t get the desired outcome. Finding patterns and drawing insights comes after refining the data and organizing processes into simple and reusable work units. I do this for massive DNA sequencing projects, and after years of international collaborations, I developed **go-interlace**, a Go library to simplify the challenge. What I computed once with data, I don’t want to repeat it manually. I want a robust system to recall the strategy and do that automatically. Even better, have an agentic system spin the flywheel of requirements, architecture, implementation, testing, deployment, and evaluation for optimized system maintenance and evolution.
+You may have collected valuable information, but you still don’t get the desired outcome. Finding patterns and drawing insights comes after refining the data and organizing processes into simple and reusable work units. I do this for massive DNA sequencing projects, and after years of international collaborations, I developed **go-interlace**, a Go library to simplify the challenge. 
+
+What I computed once with data, I don’t want to repeat it manually. I want a robust system to recall the strategy and do that automatically. Even better, have an agentic system spin the flywheel of requirements, architecture, implementation, testing, deployment, and evaluation for optimized system maintenance and evolution.
 
 I transform complex information into structured, interoperable data platforms for use in biotech and business applications. Organized in one place, portable, labeled, and accessible.
 
