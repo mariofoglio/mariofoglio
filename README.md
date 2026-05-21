@@ -12,21 +12,23 @@ Currently, I am experimenting with a dense array of AI technologies to build an 
 
 ---
 
-### 🧰 Current Technology
+### 🧰 Current Technology Stack
 
 - [Go SDK](https://golang.org)
 - [Go Interlace](https://github.com/sas-quantome)
 - [Google cloud API](https://cloud.google.com/apis)
+- [Cloud Run](https://cloud.google.com/run)
 - [Antigravity](https://antigravity.google/)
 - [Gemma](https://deepmind.google/models/gemma/)
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)
+- [Gemini CLI](https://geminicli.com/)
 - [NotebookLM](https://notebooklm.google/)
 - [DavinciResolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - [Bioinformatics Tools](https://github.com/danielecook/Awesome-Bioinformatics)
 
 ---
 
-### 🗂️ Data Playsets
+### 🗂️ Latest Data Playsets
 
 - [Ancestry category label distribution in the GWAS Catalog](https://www.ebi.ac.uk/gwas/docs/ancestry-data)
 - [NCBI ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)
