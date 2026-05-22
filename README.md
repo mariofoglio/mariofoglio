@@ -18,8 +18,13 @@ I am a molecular biologist and software engineer. At **Quantome SAS**, I special
 
 Whether for advanced biotech research or business applications, I build complex ecosystems that organize data in one place—portable, labeled, and instantly accessible.
 
-```
-Raw Data (text) → Refined (native data types) → Annotated (ontology) → Structured (platform) → Accessible (agent) → Discoverable (you)
+```mermaid
+flowchart TB
+    rd([Row Data]) -- text --> rf([Refinement])
+    rf([Refinement]) -- native data types --> ad([Annotation])
+    ad([Annotation]) -- ontology --> sd([Structure])
+    sd([structure]) -- platform --> ac([Retrieval])
+    ac([Retrieval]) -- agent --> dd([Discover])
 ```
 
 ***
