@@ -8,8 +8,6 @@
 *Grounded in logic, complex organic systems, and aesthetics —*
 *building multi-omic discovery platforms and research ecosystems.*
 
-[![LinkedIn](https://www.linkedin.com/in/foglio/)
-
 </div>
 
 ---
@@ -66,4 +64,10 @@ Raw Data (text) → Refined (native data types) → Annotated (ontology) → Str
 - LLM-assisted pipeline generation and self-deploying Go applications
 
 ---
+
+<div align="center">
+
+"Refined data is information. The platform is the experiment."
+
+</div>
 
