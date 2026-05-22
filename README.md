@@ -9,13 +9,13 @@
 *Paris, France*
 
 *Grounded in logic, complex organic systems, and aesthetics —*
-*building multi-omic discovery platforms and research ecosystems.*
+*building multi-omic discovery platforms and digital tools.*
 
 </div>
 
 I am a molecular biologist and software engineer. At **Quantome SAS**, I specialize in data refinement and automation, preserving scientific correctness while transforming abstract data into structured, interoperable platforms that can be run, stored, and scaled.
 
-Whether for advanced biotech research or business applications, I build complex ecosystems that organize data in one place—portable, labeled, and instantly accessible.
+Whether for advanced biotech research or business applications, I build computer resources that organize data in one place—portable, labeled, and instantly accessible.
 
 ```mermaid
 flowchart TB
@@ -28,7 +28,7 @@ flowchart TB
 
 ## What I Build
 
-**Go Data Platform** — 100+ Go CLI applications in the `Go Interlace` ecosystem, processing datasets from dbSNP, ClinVar, GTEx, UniProt, Ensembl, and more into a unified, queryable Gob data assets.
+**Go Data Platform** — 100+ Go CLI applications in the `Go Interlace` system, processing datasets from dbSNP, ClinVar, GTEx, UniProt, Ensembl, and more into a unified, queryable Gob data assets.
 
 **AI Agents** — Autonomous agentic systems capable of writing and deploying complete `Go Interlace` applications.
 
