@@ -28,7 +28,7 @@ flowchart TB
 
 ## What I Build
 
-**Go Data Platform** — 100+ Go CLI applications in the `Go Interlace` system, processing datasets from dbSNP, ClinVar, GTEx, UniProt, Ensembl, and more into a unified, queryable Gob data assets.
+**Go Data Platform** — 100+ Go CLI applications in the `Go Interlace` system, processing datasets from dbSNP, ClinVar, GTEx, UniProt, Ensembl, and more into a unified, queryable Gob data stack.
 
 **AI Agents** — Autonomous agentic systems capable of writing and deploying complete `Go Interlace` applications.
 
