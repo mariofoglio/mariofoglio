@@ -4,7 +4,7 @@
 
 # Mario Foglio
 
-**Discovery Platform Architect · Systems Designer · Founder @ Quantome**
+## Discovery Platform Architect · Systems Designer · Founder @ Quantome
 *Paris, France*
 
 *Grounded in logic, complex organic systems, and aesthetics —*
@@ -55,7 +55,7 @@ Raw Data (text) → Refined (native data types) → Annotated (ontology) → Str
 [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) · [dbSNP](https://ftp.ncbi.nih.gov/snp/latest_release/JSON/) · [dbVar](https://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/) · [ALFA](https://ftp.ncbi.nih.gov/snp/population_frequency/latest_release/) · [GWAS Catalog](https://www.ebi.ac.uk/gwas/) · [AlphaMissense](https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) · [MedGen](https://www.ncbi.nlm.nih.gov/medgen/)
 
 ### Molecular Annotations
-[RefSeq](https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/) · [Ensembl Transcriptome](http://ftp.ensembl.org/pub/current_gff3/homo_sapiens/) · [Ensembl Regulome]([http://ftp.ensembl.org/pub/release-104/regulation/homo_sapiens/](http://ftp.ensembl.org/pub/current_regulation/homo_sapiens/)) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [RNAcentral](http://ftp.ebi.ac.uk/pub/databases/RNAcentral/current_release/) · [UniProtKB](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/)
+[RefSeq](https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/) · [Ensembl Transcriptome](http://ftp.ensembl.org/pub/current_gff3/homo_sapiens/) · [Ensembl Regulome](http://ftp.ensembl.org/pub/current_regulation/homo_sapiens/)) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [RNAcentral](http://ftp.ebi.ac.uk/pub/databases/RNAcentral/current_release/) · [UniProtKB](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/)
 
 ***
 
