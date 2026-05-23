@@ -11,7 +11,7 @@
 
 </div>
 
-I am a molecular biologist and software engineer. At [Quantome SAS](https://github.com/sas-quantome), I specialize in data refinement and automation, preserving scientific correctness while transforming abstract data into structured, interoperable platforms that can be run, stored, and scaled.
+I am a molecular biologist and software engineer. At **Quantome SAS**, I specialize in data refinement and automation, preserving scientific correctness while transforming abstract data into structured, interoperable platforms that can be run, stored, and scaled.
 
 Whether for advanced biotech research or business applications, I build computer resources that organize data in one place—portable, labeled, and instantly accessible.
 
@@ -23,9 +23,9 @@ Whether for advanced biotech research or business applications, I build computer
 
 ## What I Build
 
-**Go Data Platform** — 100+ Go CLI applications in the `Go Interlace` system, processing datasets from dbSNP, ClinVar, GTEx, UniProt, Ensembl, and more into a unified, queryable Gob data stack.
+**Go Data Platform** — 100+ Go CLI applications with the [Go Interlace](https://github.com/sas-quantome) library, processing datasets from dbSNP, ClinVar, GTEx, UniProt, Ensembl, and more into a unified, queryable Gob data stack.
 
-**AI Agents** — Autonomous agentic systems capable of writing and deploying complete `Go Interlace` applications.
+**AI Agents** — Autonomous agentic systems capable of writing and deploying complete [Go Interlace](https://github.com/sas-quantome) applications.
 
 **Data Pipelines** — End-to-end workflows, e.g., integrating human genome, transcriptome, proteome, and phenome data — RefSeq, GTEx, RNAcentral, AlphaMissense, GWAS Catalog, and the OBO Foundry ontology suite.
 
