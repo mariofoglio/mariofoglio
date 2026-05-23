@@ -43,13 +43,13 @@ Whether for advanced biotech research or business applications, I build computer
 ## Data Playsets
 
 ### Gene, Protein & Biomedical Ontologies
-[STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/) · [OBO Foundry](https://obofoundry.org/)
+[STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [Gene DB](https://www.ncbi.nlm.nih.gov/gene/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/) · [OBO Foundry](https://obofoundry.org/)
 
 ### Clinical & Variant Databases
 [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) · [dbSNP](https://ftp.ncbi.nih.gov/snp/latest_release/JSON/) · [dbVar](https://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/) · [ALFA](https://ftp.ncbi.nih.gov/snp/population_frequency/latest_release/) · [GWAS Catalog](https://www.ebi.ac.uk/gwas/) · [EBI Ancestry](https://www.ebi.ac.uk/gwas/docs/ancestry-data) · [DeepMind AlphaMissense](https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) · [MedGen](https://www.ncbi.nlm.nih.gov/medgen/)
 
 ### Molecular Annotations
-[NCBI human genome](https://ftp.ncbi.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/annotation_releases/current/) · [RefSeq](https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/) · [Ensembl Transcriptome](http://ftp.ensembl.org/pub/current_gff3/homo_sapiens/) · [Ensembl Regulome](http://ftp.ensembl.org/pub/current_regulation/homo_sapiens/) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [RNA Central](http://ftp.ebi.ac.uk/pub/databases/RNAcentral/current_release/) · [UniProtKB](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/)
+[NCBI Genomes](https://ftp.ncbi.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/annotation_releases/current/) · [RefSeq](https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/) · [Ensembl Transcriptome](http://ftp.ensembl.org/pub/current_gff3/homo_sapiens/)/[Regulome](http://ftp.ensembl.org/pub/current_regulation/homo_sapiens/) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [RNA Central](http://ftp.ebi.ac.uk/pub/databases/RNAcentral/current_release/) · [UniProtKB](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/)
 
 ## Currently Exploring
 
