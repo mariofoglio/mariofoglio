@@ -57,10 +57,4 @@ Whether for advanced biotech research or business applications, I build computer
 - Entity–event–agent architectures for scientific data platforms
 - LLM-assisted pipeline generation and self-deploying Go applications
 
-<div align="center">
-
-![success](success.png)
-
-</div>
-
 ***
