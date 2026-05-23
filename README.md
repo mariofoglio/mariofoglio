@@ -27,7 +27,7 @@ Whether for advanced biotech research or business applications, I build computer
 
 **AI Agents** — Autonomous agentic systems capable of writing and deploying complete `Go Interlace` applications.
 
-**Molecular Data Pipelines** — End-to-end workflows integrating human genome, transcriptome, proteome, and phenome data — RefSeq, GTEx, RNAcentral, AlphaMissense, GWAS Catalog, and the OBO Foundry ontology suite.
+**Data Pipelines** — End-to-end workflows, e.g., integrating human genome, transcriptome, proteome, and phenome data — RefSeq, GTEx, RNAcentral, AlphaMissense, GWAS Catalog, and the OBO Foundry ontology suite.
 
 ## Core Stack
 
