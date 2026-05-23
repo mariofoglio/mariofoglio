@@ -11,7 +11,7 @@
 
 </div>
 
-I am a molecular biologist and software engineer. At **Quantome SAS**, I specialize in data refinement and automation, preserving scientific correctness while transforming abstract data into structured, interoperable platforms that can be run, stored, and scaled.
+I am a molecular biologist and software engineer. At [Quantome SAS](https://github.com/sas-quantome), I specialize in data refinement and automation, preserving scientific correctness while transforming abstract data into structured, interoperable platforms that can be run, stored, and scaled.
 
 Whether for advanced biotech research or business applications, I build computer resources that organize data in one place—portable, labeled, and instantly accessible.
 
