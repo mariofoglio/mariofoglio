@@ -40,10 +40,10 @@ Whether for advanced biotech research or business applications, I build computer
 | **Bioinformatics** | Sequence Alignment & Homology, Variant Calling, Molecular Modeling, Visualization, Quantification |
 | **Data Formats**   | GFF3, GFF, VCF, JSON, GVF, BED, PED, XML, FASTA, FASTQ, PDB, GenBank                              |
 
-## Data Playsets
+## Recommend Data Playsets
 
 ### Gene, Protein & Biomedical Ontologies
-[STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [Gene DB](https://www.ncbi.nlm.nih.gov/gene/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/) · [OBO Foundry](https://obofoundry.org/)
+[STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [Gene DB](https://www.ncbi.nlm.nih.gov/gene/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
 
 ### Clinical & Variant Databases
 [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) · [dbSNP](https://ftp.ncbi.nih.gov/snp/latest_release/JSON/) · [dbVar](https://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/) · [ALFA](https://ftp.ncbi.nih.gov/snp/population_frequency/latest_release/) · [GWAS Catalog](https://www.ebi.ac.uk/gwas/) · [EBI Ancestry](https://www.ebi.ac.uk/gwas/docs/ancestry-data) · [DeepMind AlphaMissense](https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) · [MedGen](https://www.ncbi.nlm.nih.gov/medgen/)
