@@ -61,7 +61,7 @@ Whether for advanced biotech research or business applications, I build computer
 
 <div align="center">
 
-*"Refined data is information. The data stack is your source for success."*
+*"Refined data is information. The data platform is the source for success."*
 
 </div>
 
