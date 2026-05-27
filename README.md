@@ -4,10 +4,10 @@
 
 # Mario Foglio
 
-**Discovery Platform Architect · Systems Designer · Founder @ Quantome**
+**Discovery Platform Maker · Systems Designer · Founder @ Quantome**
 
 *Grounded in logic, complex organic systems, and aesthetics —*
-*building multi-omic discovery platforms and digital tools.*
+*putting data in order for discovery and innovation.*
 
 </div>
 
