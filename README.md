@@ -4,7 +4,7 @@
 
 **Discovery Platform Creator · Systems Designer · Founder @ Quantome SAS**
 
-*Blending logic, complex organic systems, and aesthetics to elevate AI — from messy files to refined digital assets.*
+*Blending logic, complex organic systems, and aesthetics to elevate AI — from disorderly files to refined digital assets.*
 
 </div>
 
