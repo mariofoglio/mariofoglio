@@ -31,8 +31,8 @@ Whether for advanced biotech research or business applications, I build computer
 
 | Layer              | Tools                                                                                             |
 |--------------------|---------------------------------------------------------------------------------------------------|
-| **Language**       | Go (primary), Python (ML), C/C++                                                                  |
-| **Platform**       | Cloud Run, Go Interlace (open-source core library)                                                |
+| **Language**       | Go (primary), Python (ML), C/C++, HTML, CSS and others left behind                                |
+| **Platform**       | Cloud Run, Go Interlace (open-source core library), Google Cloud Console, GitHub                  |
 | **AI / Agents**    | Claude API (Anthropic), Gemini API (Google), local LLMs (e.g. Gemma)                              |
 | **Development**    | Antigravity, NotebookLM, Gemini CLI, JetBrains, DavinciResolve                                    |
 | **Bioinformatics** | Sequence Alignment & Homology, Variant Calling, Molecular Modeling, Visualization, Quantification |
