@@ -1,17 +1,15 @@
-***
-
 <div align="center">
 
 # Mario Foglio
 
-**Discovery Platform Maker · Systems Designer · Founder @ Quantome**
+**Discovery Platform Creator · Systems Designer · Founder @ Quantome SAS**
 
-*Grounded in logic, complex organic systems, and aesthetics —*
-*putting data in order for discovery and innovation.*
+*Blending logic, complex organic systems, and aesthetics to elevate AI —*
+*from messy files to refined digital assets.*
 
 </div>
 
-I am a molecular biologist and software engineer. At **Quantome SAS**, I specialize in data refinement and automation, preserving scientific correctness while transforming abstract data into structured, interoperable platforms that can be run, stored, and scaled.
+I studied molecular biology, software engineering, and visual arts. At **Quantome SAS**, I specialize in data refinement and automation, preserving scientific correctness while transforming abstract data into structured, interoperable platforms that can be run, stored, and scaled.
 
 Whether for advanced biotech research or business applications, I build computer resources that organize data in one place—portable, labeled, and instantly accessible.
 
@@ -23,11 +21,11 @@ Whether for advanced biotech research or business applications, I build computer
 
 ## What I Build
 
-**Go Data Platform** — 100+ Go CLI applications with the [Go Interlace](https://github.com/sas-quantome) library, processing datasets from dbSNP, ClinVar, GTEx, UniProt, Ensembl, and more into a unified, queryable Gob data stack.
+**Go Data Platform** — 100+ Go applications and the [Go Interlace](https://github.com/sas-quantome) library, processing datasets from NCBI, DeepMind, EBI, UniProt, Ensembl, and more into a unified, queryable Gob data stack.
 
 **AI Agents** — Autonomous agentic systems capable of writing and deploying complete [Go Interlace](https://github.com/sas-quantome) applications.
 
-**Data Pipelines** — End-to-end workflows, e.g., integrating human genome, transcriptome, proteome, and phenome data — RefSeq, GTEx, RNAcentral, AlphaMissense, GWAS Catalog, and the OBO Foundry ontology suite.
+**Data Pipelines** — End-to-end workflows, e.g., integrating human genome, transcriptome, proteome, and phenome data — RefSeq, dbSNP, GTEx, RNAcentral, AlphaMissense, GWAS Catalog, and the OBO Foundry ontology suite.
 
 ## Core Stack
 
@@ -62,5 +60,3 @@ Whether for advanced biotech research or business applications, I build computer
 ![success](success.png)
 
 </div>
-
-***
