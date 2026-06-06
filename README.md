@@ -8,7 +8,7 @@
 
 </div>
 
-I studied software engineering, molecular biology, and visual arts. At **Quantome SAS**, I specialize in data refinement and automation, preserving scientific correctness while transforming abstract data into structured, interoperable platforms that can be run, stored, and scaled.
+I studied software engineering, molecular biology, and visual arts. At **Quantome SAS,** I specialize in data refinement and automation, preserving scientific accuracy while transforming abstract data into structured, interoperable platforms that can be run, stored, scaled, and visualized.
 
 Whether for advanced biotech research or business applications, I build computer resources that organize data in one place—portable, labeled, and instantly accessible.
 
