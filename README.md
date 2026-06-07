@@ -26,9 +26,8 @@ Whether for advanced biotech research or business applications, I help build com
 
 **Data Pipelines** — End-to-end workflows, e.g., DNA sequencing analysis, data integration, ontology annotation, entity recognition, and entity discovery.
 
-## Core Stack
+## Tools Stack
 
-| Layer              | Tools                                                                                             |
 |--------------------|---------------------------------------------------------------------------------------------------|
 | **Language**       | Go (primary), Python (ML), C/C++, SQL, HTML, CSS and others left behind                           |
 | **Platform**       | Go Interlace (open-source core library), Google Cloud, GitHub                                     |
