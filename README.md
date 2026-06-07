@@ -28,7 +28,7 @@ Whether for advanced biotech research or business applications, I help build com
 
 ## How
 
-➥ [Go Interlace](https://github.com/sas-quantome)
+Please visit the [*Go Interlace*](https://github.com/sas-quantome) repository.
 
 ## Core Stack
 
