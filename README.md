@@ -4,13 +4,13 @@
 
 **Discovery Platform Creator · Systems Designer · Founder @ Quantome SAS**
 
-*Blending logic, complex organic systems, and aesthetics to elevate AI — from disorderly files to refined digital assets.*
+*Blending logic, complex organic systems, and aesthetics to boost AI — I transform disorderly files into refined data assets.*
 
 </div>
 
-I studied software engineering, molecular biology, and visual arts. At **Quantome SAS,** I specialize in data refinement and automation, preserving scientific accuracy while transforming abstract data into structured, interoperable platforms that can be run, stored, scaled, and visualized.
+At the data source, I focus on data refinement and automation, preserving information accuracy while converting abstract data into structured, interoperable platforms that can be run, stored, scaled, and visualized.
 
-Whether for advanced biotech research or business applications, I build computer resources that organize data in one place—portable, labeled, and instantly accessible.
+Whether for advanced biotech research or business applications, I help build computer resources that organize data in one place—portable, labeled, and instantly accessible.
 
 <div align="center">
 
@@ -20,24 +20,24 @@ Whether for advanced biotech research or business applications, I build computer
 
 ## What I Build
 
-**Go Data Platform** — 100+ Go applications and the [Go Interlace](https://github.com/sas-quantome) library, processing datasets from NCBI, DeepMind, EBI, UniProt, Ensembl, and more into a unified, queryable Gob data stack.
+**Go Data Platform** — 100+ Go applications and the [Go Interlace](https://github.com/sas-quantome) library that process data from diverse open-access sources into a unified, queryable Go data stack.
 
 **AI Agents** — Autonomous agentic systems capable of writing and deploying complete [Go Interlace](https://github.com/sas-quantome) applications.
 
-**Data Pipelines** — End-to-end workflows, e.g., integrating human genome, transcriptome, proteome, and phenome data — RefSeq, dbSNP, GTEx, RNAcentral, AlphaMissense, GWAS Catalog, and the OBO Foundry ontology suite.
+**Data Pipelines** — End-to-end workflows, e.g., combining human genome, transcriptome, proteome, and phenome data.
 
 ## Core Stack
 
 | Layer              | Tools                                                                                             |
 |--------------------|---------------------------------------------------------------------------------------------------|
 | **Language**       | Go (primary), Python (ML), C/C++, SQL, HTML, CSS and others left behind                           |
-| **Platform**       | Cloud Run, Go Interlace (open-source core library), Google Cloud Console, GitHub                  |
+| **Platform**       | Go Interlace (open-source core library), Google Cloud Console, GitHub                             |
 | **AI / Agents**    | Claude API (Anthropic), Gemini API (Google), local LLMs (e.g. Gemma)                              |
-| **Development**    | Antigravity, NotebookLM, Gemini CLI, JetBrains, DavinciResolve                                    |
+| **Development**    | Antigravity, Gemini CLI, JetBrains, NotebookLM, DavinciResolve                                    |
 | **Bioinformatics** | Sequence Alignment & Homology, Variant Calling, Molecular Modeling, Visualization, Quantification |
 | **Data Formats**   | GFF3, GFF, VCF, JSON, YAML, GVF, BED, PED, XML, FASTA, FASTQ, PDB, GenBank, etc.                  |
 
-## Data Playsets
+## Current Data
 
 ### Gene, Protein & Disease
 [STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [Gene DB](https://www.ncbi.nlm.nih.gov/gene/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
