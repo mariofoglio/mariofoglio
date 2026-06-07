@@ -24,7 +24,7 @@ Whether for advanced biotech research or business applications, I help build com
 
 **AI Agents** — Autonomous agentic systems capable of writing and deploying complete [Go Interlace](https://github.com/sas-quantome) applications.
 
-**Data Pipelines** — End-to-end workflows, e.g., combining human genome, transcriptome, proteome, and phenome data.
+**Data Pipelines** — End-to-end workflows, e.g., DNA sequencing analysis, data integration, ontology annotation, entity recognition, and entity discovery.
 
 ## Core Stack
 
