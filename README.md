@@ -20,11 +20,15 @@ Whether for advanced biotech research or business applications, I help build com
 
 ## What I Build
 
-**Go Data Platform** — 100+ Go programs and the [Go Interlace](https://github.com/sas-quantome) library that process data from diverse open-access sources into a unified, queryable Go data stack.
+**Go Data Platform** — 100+ Go programs and the *Go Interlace* library that process data from diverse open-access sources into a unified, queryable Go data stack.
 
-**AI Agents** — Autonomous agentic systems capable of writing and deploying complete [Go Interlace](https://github.com/sas-quantome) applications.
+**AI Agents** — Autonomous agentic systems capable of writing and deploying complete *Go Interlace* applications.
 
 **Data Pipelines** — End-to-end workflows, e.g., DNA sequencing analysis, data integration, ontology annotation, entity recognition, and entity discovery.
+
+## How
+
+➥ [Go Interlace](https://github.com/sas-quantome)
 
 ## Core Stack
 
