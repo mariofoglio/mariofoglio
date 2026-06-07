@@ -31,8 +31,8 @@ Whether for advanced biotech research or business applications, I help build com
 | Layer              | Tools                                                                                             |
 |--------------------|---------------------------------------------------------------------------------------------------|
 | **Language**       | Go (primary), Python (ML), C/C++, SQL, HTML, CSS and others left behind                           |
-| **Platform**       | Go Interlace (open-source core library), Google Cloud Console, GitHub                             |
-| **AI / Agents**    | Claude API (Anthropic), Gemini API (Google), local LLMs (e.g. Gemma)                              |
+| **Platform**       | Go Interlace (open-source core library), Google Cloud, GitHub                                     |
+| **AI / Agents**    | Claude, Gemini, local LLMs (e.g. Gemma)                                                           |
 | **Development**    | Antigravity, Gemini CLI, JetBrains, NotebookLM, DavinciResolve                                    |
 | **Bioinformatics** | Sequence Alignment & Homology, Variant Calling, Molecular Modeling, Visualization, Quantification |
 | **Data Formats**   | GFF3, GFF, VCF, JSON, YAML, GVF, BED, PED, XML, FASTA, FASTQ, PDB, GenBank, etc.                  |
