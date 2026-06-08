@@ -22,7 +22,7 @@ Whether for advanced biotech research or business applications, I am prepared to
 
 **Go Data Platform** — 100+ Go programs and the *Go Interlace* library that process data from diverse open-access sources into a unified, queryable Go data stack.
 
-**AI Agents** — Autonomous agentic systems capable of writing and deploying complete *Go Interlace* applications based on a curated codebase.
+**AI Support** — Autonomous agentic systems capable of writing and deploying complete *Go Interlace* applications based on a curated codebase.
 
 **Data Pipelines** — End-to-end workflows, e.g., DNA sequencing analysis, data integration, ontology annotation, entity recognition, and entity discovery.
 
@@ -55,7 +55,7 @@ Please visit the [*Go Interlace*](https://github.com/sas-quantome) GitHub reposi
 ## Current Work
 
 - Agentic systems with tool use and memory for generic workflows
-- Entity–event–agent architectures for scientific data platforms
+- Entity–event–agent architectures for research data platforms
 - LLM-assisted pipeline generation and self-deploying Go applications
 
 <div align="center">
