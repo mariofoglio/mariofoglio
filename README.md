@@ -30,7 +30,7 @@ Whether for advanced biotech research or business applications, I help build com
 
 Please visit the [*Go Interlace*](https://github.com/sas-quantome) GitHub repository.
 
-## Core Stack
+## Current Tech
 
 |                    | Tools                                                                                             |
 |--------------------|:--------------------------------------------------------------------------------------------------|
@@ -41,7 +41,7 @@ Please visit the [*Go Interlace*](https://github.com/sas-quantome) GitHub reposi
 | **Bioinformatics** | Sequence Alignment & Homology, Variant Calling, Molecular Modeling, Visualization, Quantification |
 | **Data Formats**   | GFF3, GFF, VCF, JSON, YAML, GVF, BED, PED, XML, FASTA, FASTQ, PDB, GenBank, etc.                  |
 
-## Current Data
+## Current Datasets
 
 ### Gene, Protein & Disease
 [STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [Gene DB](https://www.ncbi.nlm.nih.gov/gene/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
