@@ -34,7 +34,7 @@ Please visit the [*Go Interlace*](https://github.com/sas-quantome) GitHub reposi
 
 |                    | Tools                                                                                             |
 |--------------------|:--------------------------------------------------------------------------------------------------|
-| **Language**       | Go (primary), Python (ML), C/C++, SQL, HTML, CSS and others left behind                           |
+| **Language**       | Go (data, streaming), Python (ML, reasoning), C/C++, SQL, HTML, CSS and others left behind        |
 | **Platform**       | Go Interlace (open-source core library), Google Cloud, GitHub                                     |
 | **AI / Agents**    | Claude, Gemini, local LLMs (e.g. Gemma)                                                           |
 | **Development**    | Antigravity, Gemini CLI, JetBrains, NotebookLM, DavinciResolve                                    |
