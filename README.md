@@ -8,7 +8,7 @@
 
 </div>
 
-At the data source, I focus on data refinement and automation, preserving information accuracy while converting abstract data into structured, interoperable platforms that can be run, stored, scaled, and visualized.
+At the data source, I focus on data refinement and automation, preserving information accuracy while converting abstract data into structured, interoperable platforms that can be run, stored, scaled, visualized, and made sound.
 
 Whether for advanced biotech research or business applications, I help build computer resources that organize data in one place—portable, labeled, and instantly accessible.
 
