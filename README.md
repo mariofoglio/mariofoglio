@@ -8,7 +8,7 @@
 
 </div>
 
-Software in the field is bounded by how it handles the unexpected. My software wasn't spun up overnight; it has been shaped by years of working in DNA sequencing centers, driven by the intent, context, and foresight that only real-world experience provides.
+Software in the field is bounded by how it handles the unexpected. My software wasn't spun up overnight; it has been shaped by years of challenges working in DNA fast-paced technology centers, driven by the intent, context, and foresight that only real-world experience provides.
 
 At the data source, I focus on data refinement, automation, and adaptation, preserving information accuracy while converting abstract data into structured, interoperable platforms that can be run, stored, scaled, visualized, and made sound.
 
