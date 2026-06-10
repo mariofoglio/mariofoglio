@@ -12,7 +12,7 @@ Software in the field is bounded by how it handles the unexpected. My software w
 
 At the data source, I focus on data refinement, automation, and adaptation, preserving information accuracy while converting abstract data into structured, interoperable platforms that can be run, stored, scaled, visualized, and made sound.
 
-Whether for advanced biotech research or business applications, I am prepared to build computer resources that organize data in one place—portable, labeled, and instantly accessible. A moment to conceive what was just imposible a few years ago.
+Whether for advanced biotech research or business applications, I am prepared to build computer resources that organize data in one place—portable, labeled, and instantly accessible capable to conceive what was just imposible a few years ago.
 
 <div align="center">
 
