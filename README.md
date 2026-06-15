@@ -29,7 +29,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 ## Where to Find More About My Work
 
-Explore the open-source client integration tools and the *interlace-ex* benchmark dataset at the [Quantome's GitHub repository](https://github.com/sas-quantome).
+Explore the open-source client integration tools and the **interlace-ex** benchmark dataset at the [Quantome's GitHub repository](https://github.com/sas-quantome).
 
 ## Tech Stack
 
