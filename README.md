@@ -52,11 +52,11 @@ I have built parsers, encoders, and deterministic models for the following compl
   
 * **Clinical DNA Variation:**
 
-  [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) · [dbSNP](https://ftp.ncbi.nih.gov/snp/latest_release/JSON/) · [dbVar](https://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/) · [ALFA](https://ftp.ncbi.nih.gov/snp/population_frequency/latest_release/) · [GWAS Catalog](https://www.ebi.ac.uk/gwas/) · [EBI Ancestry](https://www.ebi.ac.uk/gwas/docs/ancestry-data) · [AlphaMissense](https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) · [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) · [GenAge](https://genomics.senescence.info/genes/index.html)
+  [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) · [dbSNP](https://ftp.ncbi.nih.gov/snp/latest_release/JSON/) · [dbVar](https://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/) · [ALFA](https://ftp.ncbi.nih.gov/snp/population_frequency/latest_release/) · [GWAS Catalog](https://www.ebi.ac.uk/gwas/) · [EBI Ancestry](https://www.ebi.ac.uk/gwas/docs/ancestry-data) · [AlphaMissense](https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) · [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) 
   
 * **Molecular Annotation:**
 
-  [NCBI Genomes](https://ftp.ncbi.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/annotation_releases/current/) · [RefSeq](https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/) · [Ensembl](http://ftp.ensembl.org/pub/current_gff3/homo_sapiens/) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [RNA Central](http://ftp.ebi.ac.uk/pub/databases/RNAcentral/current_release/) · [UniProtKB](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/)
+  [NCBI Genomes](https://ftp.ncbi.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/annotation_releases/current/) · [RefSeq](https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/) · [Ensembl](http://ftp.ensembl.org/pub/current_gff3/homo_sapiens/) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [RNA Central](http://ftp.ebi.ac.uk/pub/databases/RNAcentral/current_release/) · [UniProtKB](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/) · [GenAge](https://genomics.senescence.info/genes/index.html)
   
 
 ## Current Focus
@@ -71,5 +71,5 @@ I have built parsers, encoders, and deterministic models for the following compl
 
 </div>
 
-###### June 15, 2026: main readme v80
+###### June 15, 2026: main readme v81
 
