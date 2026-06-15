@@ -27,11 +27,11 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 * **Autonomous Agentic Systems** — LLM-assisted architectures capable of writing, compiling, and deploying complete Go applications that reason directly over local, deterministic arrays.
 * **Bioinformatics Pipelines** — End-to-end workflows for DNA sequencing analysis, ontology annotation, and massive-scale entity recognition.
 
-## Where to Find My Work
+## Where to Find More About My Work
 
 Explore the open-source client integration tools and the *interlace-ex* benchmark dataset at the [Quantome's GitHub repository](https://github.com/sas-quantome).
 
-## The Tech Stack
+## Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -42,7 +42,7 @@ Explore the open-source client integration tools and the *interlace-ex* benchmar
 | **Bioinformatics** | Sequence Alignment, Variant Calling, Molecular Modeling, Visualization |
 | **Data Formats** | Gob, GFF3, VCF, JSON, YAML, BED, PED, XML, FASTA, PDB |
 
-## Domain Expertise: Current Datasets
+## Current Domain Expertise
 
 I have built parsers, encoders, and deterministic models for the following complex datasets:
 
