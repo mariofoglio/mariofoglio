@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # Mario Foglio
 
 **Data Refinery Architect · Systems Designer · Founder @ Quantome SAS**
@@ -70,3 +70,6 @@ I have built parsers, encoders, and deterministic models for the following compl
 ![success](success.png)
 
 </div>
+
+###### June 15, 2026: docs readme v79
+
