@@ -23,7 +23,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 ## What I Build
 
 * **The Quantome Engine (`go-interlace`)** — A private suite of 100+ Go programs and deterministic pipelines that refine raw, distributed data into a unified, high-density Gob data stack.
-* **The Integration Ecosystem (`co-interlace`)** — Open-source shell tools and reference architectures that empower teams to stream our primary Gob assets directly into downstream databases and LLMs.
+* **The Integration System (`co-interlace`)** — Open-source shell tools and reference architectures that empower teams to stream our primary Gob assets directly into downstream databases and LLMs.
 * **Autonomous Agentic Systems** — LLM-assisted architectures capable of writing, compiling, and deploying complete Go applications that reason directly over local, deterministic arrays.
 * **Bioinformatics Pipelines** — End-to-end workflows for DNA sequencing analysis, ontology annotation, and massive-scale entity recognition.
 
@@ -71,5 +71,5 @@ I have built parsers, encoders, and deterministic models for the following compl
 
 </div>
 
-###### June 15, 2026: main readme v81
+###### June 15, 2026: main readme v82
 
