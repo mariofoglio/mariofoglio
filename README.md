@@ -16,7 +16,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 <div align="center">
 
-![raw-data](raw_data.png)
+![refinement](refinement.png)
 
 </div>
 
@@ -29,7 +29,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 ## Where to Find My Work
 
-Explore the open-source client integration tools and the *interlace-ex* benchmark dataset at the [Quantome's official GitHub repository](https://github.com/sas-quantome).
+Explore the open-source client integration tools and the *interlace-ex* benchmark dataset at the [Quantome's GitHub repository](https://github.com/sas-quantome).
 
 ## The Tech Stack
 
