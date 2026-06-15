@@ -2,17 +2,17 @@
 
 # Mario Foglio
 
-**Data Refinery Architect · Systems Designer · Founder @ Quantome**
+**Data Refinery Architect · Systems Designer · Founder @ Quantome SAS**
 
-**Transforming massive, noisy datasets into highly condensed, deterministic, and AI-ready knowledge assets.**
+**Transforming massive, noisy information into highly condensed, deterministic, and AI-ready knowledge assets.**
 
 </div>
 
-Software in the field is bounded by how it handles the unexpected. The software I developed wasn't spun up overnight; it has been shaped by years of challenges working in DNA fast-paced technology centers, driven by the intent, context, and foresight that only real-world experience provides.
+Software in the wild is tested through the unexpected. I don't build theoretical data models; I engineer deterministic data pipelines forged by years of handling massive, fragmented datasets in fast-paced DNA technology centers.
 
-At the data source, I focus on data refinement, automation, and adaptation, preserving information accuracy while converting abstract data into structured, interoperable platforms that can be run, stored, scaled, visualized, and made sound.
+I focus on extreme data refinement—stripping away infrastructure bloat and replacing it with ultra-condensed, parallel-array structures. My goal is to break the gravity of raw data, transforming gigabytes of unstructured "sludge" into lightning-fast, portable formats that can be queried in microseconds and fed natively into AI agent contexts.
 
-Whether for advanced biotech research or business applications, I am prepared to build computer resources that organize data in one place—portable, labeled, and instantly accessible capable to conceive what was just imposible a few years ago.
+Whether for advanced biotech research or enterprise infrastructure, I build the engines that make data instantly accessible, tightly governed, and completely free from vendor lock-in.
 
 <div align="center">
 
@@ -22,43 +22,48 @@ Whether for advanced biotech research or business applications, I am prepared to
 
 ## What I Build
 
-**Go Data Platform** — 100+ Go programs and the *Go Interlace* library that process data from diverse open-access sources into a unified, queryable Go data stack.
+* **The Quantome Engine (`go-interlace`)** — A private suite of 100+ Go programs and deterministic pipelines that refine raw, distributed data into a unified, high-density Gob data stack.
+* **The Integration Ecosystem (`co-interlace`)** — Open-source shell tools and reference architectures that empower teams to stream our primary Gob assets directly into downstream databases and LLMs.
+* **Autonomous Agentic Systems** — LLM-assisted architectures capable of writing, compiling, and deploying complete Go applications that reason directly over local, deterministic arrays.
+* **Bioinformatics Pipelines** — End-to-end workflows for DNA sequencing analysis, ontology annotation, and massive-scale entity recognition.
 
-**AI Support** — Autonomous agentic systems capable of writing and deploying complete *Go Interlace* applications based on a real-world experience codebase.
+## Where to Find My Work
 
-**Data Pipelines** — End-to-end workflows, e.g., DNA sequencing analysis, data integration, ontology annotation, entity recognition, and entity discovery.
+Explore the open-source client integration tools and the *interlace-ex* benchmark dataset at the [Quantome's official GitHub repository](https://github.com/sas-quantome).
 
-## How
+## The Tech Stack
 
-Please visit the [*Go Interlace*](https://github.com/sas-quantome) GitHub repository.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Go (storing, streaming, orchestration), Python (ML), C/C++, SQL |
+| **Infrastructure** | Google Cloud Platform, Cloud Run, Elasticsearch, GitHub |
+| **Architecture** | Go Interlace, Deterministic DAGs, Docker, Local Shell CLI |
+| **AI Agents** | Claude, Gemini, Gemma (reasoning, tool-use, pipeline generation) |
+| **Bioinformatics** | Sequence Alignment, Variant Calling, Molecular Modeling, Visualization |
+| **Data Formats** | Gob, GFF3, VCF, JSON, YAML, BED, PED, XML, FASTA, PDB |
 
-## Current Tech
+## Domain Expertise: Current Datasets
 
-|                    | Tools                                                                                             |
-|--------------------|:--------------------------------------------------------------------------------------------------|
-| **Language**       | Go (storing, streaming), Python (ML), C/C++, SQL, HTML, CSS and others left behind                |
-| **Platform**       | Go Interlace (refinement, enrichment), Cloud Run, Google Cloud, Elasticsearch (grounding), GitHub |
-| **AI / Agents**    | Claude, Gemini, Gemma (all three for reasoning, synthesizing, analyzing, summarizing)             |
-| **Development**    | Antigravity, Gemini CLI, JetBrains, NotebookLM, DavinciResolve                                    |
-| **Bioinformatics** | Sequence Alignment & Homology, Variant Calling, Molecular Modeling, Visualization, Quantification |
-| **Data Formats**   | GFF3, GFF, VCF, JSON, YAML, GVF, BED, PED, XML, FASTA, FASTQ, PDB, GenBank, etc.                  |
+I have built parsers, encoders, and deterministic models for the following complex datasets:
 
-## Current Datasets
+* **Gene, Protein & Disease:**
 
-### Gene, Protein & Disease
-[STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [Gene DB](https://www.ncbi.nlm.nih.gov/gene/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
+  [STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [Gene DB](https://www.ncbi.nlm.nih.gov/gene/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
+  
+* **Clinical DNA Variation:**
 
-### Clinical DNA Variation
-[ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) · [dbSNP](https://ftp.ncbi.nih.gov/snp/latest_release/JSON/) · [dbVar](https://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/) · [ALFA](https://ftp.ncbi.nih.gov/snp/population_frequency/latest_release/) · [GWAS Catalog](https://www.ebi.ac.uk/gwas/) · [EBI Ancestry](https://www.ebi.ac.uk/gwas/docs/ancestry-data) · [DeepMind AlphaMissense](https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) · [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) · [GenAge](https://genomics.senescence.info/genes/index.html)
+  [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) · [dbSNP](https://ftp.ncbi.nih.gov/snp/latest_release/JSON/) · [dbVar](https://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/) · [ALFA](https://ftp.ncbi.nih.gov/snp/population_frequency/latest_release/) · [GWAS Catalog](https://www.ebi.ac.uk/gwas/) · [EBI Ancestry](https://www.ebi.ac.uk/gwas/docs/ancestry-data) · [AlphaMissense](https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) · [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) · [GenAge](https://genomics.senescence.info/genes/index.html)
+  
+* **Molecular Annotation:**
 
-### Molecular Annotation
-[NCBI Genomes](https://ftp.ncbi.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/annotation_releases/current/) · [RefSeq](https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/) · [Ensembl Transcriptome](http://ftp.ensembl.org/pub/current_gff3/homo_sapiens/)/[Regulome](http://ftp.ensembl.org/pub/current_regulation/homo_sapiens/) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [RNA Central](http://ftp.ebi.ac.uk/pub/databases/RNAcentral/current_release/) · [UniProtKB](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/)
+  [NCBI Genomes](https://ftp.ncbi.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/annotation_releases/current/) · [RefSeq](https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/) · [Ensembl](http://ftp.ensembl.org/pub/current_gff3/homo_sapiens/) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [RNA Central](http://ftp.ebi.ac.uk/pub/databases/RNAcentral/current_release/) · [UniProtKB](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/)
+  
 
-## Current Work
+## Current Focus
 
-- Agentic systems with tool use and memory for generic workflows
-- Entity–event–agent architectures for research data platforms
-- LLM-assisted pipeline generation and self-deploying Go applications
+- Expanding the `co-interlace` public integration ecosystem for frictionless enterprise adoption.
+- Designing entity–event–agent architectures for ultra-low-latency research platforms.
+- Developing LLM-assisted pipeline generation and self-deploying Go infrastructure.
 
 <div align="center">
 
