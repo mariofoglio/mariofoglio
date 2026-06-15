@@ -71,5 +71,5 @@ I have built parsers, encoders, and deterministic models for the following compl
 
 </div>
 
-###### June 15, 2026: docs readme v79
+###### June 15, 2026: main readme v80
 
