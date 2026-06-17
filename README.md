@@ -35,9 +35,9 @@ Explore the open-source client integration tools and the **interlace-ex** benchm
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Go (storing, streaming, orchestration), Python (ML), C/C++, SQL |
+| **Languages** | Go (storing, streaming), Python (ML), C/C++, SQL |
 | **Infrastructure** | Google Cloud Platform, Cloud Run, Elasticsearch, GitHub |
-| **Architecture** | Go Interlace, Deterministic DAGs, Docker, Local Shell CLI |
+| **Architecture** | Go Interlace (orchestration, LLM grounding), Deterministic DAGs, Docker, Local Shell CLI |
 | **AI Agents** | Claude, Gemini, Gemma (reasoning, tool-use, pipeline generation) |
 | **Bioinformatics** | Sequence Alignment, Variant Calling, Molecular Modeling, Visualization |
 | **Data Formats** | Gob, GFF3, VCF, JSON, YAML, BED, PED, XML, FASTA, PDB |
@@ -71,5 +71,5 @@ I have built parsers, encoders, and deterministic models for the following compl
 
 </div>
 
-###### June 16, 2026: main readme v83
+###### June 17, 2026: main readme v84
 
