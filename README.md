@@ -65,11 +65,13 @@ I have built parsers, encoders, and deterministic models for the following compl
 - Designing entity–event–agent architectures for ultra-low-latency research platforms.
 - Developing LLM-assisted pipeline generation and self-deploying Go infrastructure.
 
+## See [Quantome's GitHub repository](https://github.com/sas-quantome) for more details on data refinement.
+
 <div align="center">
 
 ![success](success.png)
 
 </div>
 
-###### June 17, 2026: main readme v84
+###### June 18, 2026: main readme v85
 
