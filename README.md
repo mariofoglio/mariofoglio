@@ -44,7 +44,7 @@ Explore the open-source client integration tools and the **interlace-ex** benchm
 
 ## Current Domain Expertise
 
-I have built parsers, encoders, and deterministic models for the following complex datasets:
+I have built parsers, encoders, model-based agents, state machines, and deterministic models for the following complex datasets:
 
 * **Gene, Protein & Disease:**
 
@@ -73,5 +73,5 @@ I have built parsers, encoders, and deterministic models for the following compl
 
 </div>
 
-###### June 18, 2026: main readme v85
+###### June 19, 2026: main readme v86
 
