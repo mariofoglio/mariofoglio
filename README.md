@@ -24,7 +24,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 * **Proprietary Refinery Engine (`go-interlace`)** — A private suite of 100+ Go programs and deterministic pipelines that refine raw, distributed data into a unified, ultra-condensed Gob data stack. Vertically partitioned, columnar data store that uses parallel arrays to support additive schema evolution. Applies advanced Directed Acyclic Graphs (DAGs) and Standard Operating Procedures (SOPs) to orchestrate multifaceted data consolidation. It persistently monitors processes, parses execution logs, prevents redundant billing runs, and automatically halts cluster submission upon detecting critical anomalies.
 * **Public Client Kit (`co-interlace`)** — Open-source Go SDK and a set of command-line tools intended to decode, search, and pipe Gob streams out of the permanent vault directly into downstream transient tools: databases, supercomputers, and local LLMs. 
-* **Autonomous Agentic Systems** —  The Interlace codebase has been refactored to support agentic development platforms and to enable autonomous AI agents to plan, write, modify, test, and guide agents, with detailed codebase examples when building new applications.
+* **Autonomous Agentic Systems** —  The Interlace codebase has been refactored to support agentic development platforms and enable autonomous AI agents to plan, write, modify, test, and teach them using internal examples to build new applications.
 * **Bioinformatics Pipelines** — End-to-end workflows for DNA sequencing analysis, ontology annotation, and massive-scale entity recognition.
 
 ## Where to Find More About My Work
@@ -65,7 +65,7 @@ I have built parsers, encoders, model-based agents, state machines, and determin
 
 1) LLMs can reason, but they are notoriously terrible calculators. Our Go application can perform the statistics flawlessly. It perfectly holds the retrieved data and the full query context in memory, but it never reasons.
 
-2) LLMs know everything, but they organize nothing. 
+2) LLMs know everything, but organize nothing. Probabilistic agents try, but they lack determinism. 
 
 ## See [Quantome's GitHub repository](https://github.com/sas-quantome) for more details on data refinement.
 
@@ -75,5 +75,5 @@ I have built parsers, encoders, model-based agents, state machines, and determin
 
 </div>
 
-###### July 9, 2026: main readme v89
+###### July 9, 2026: main readme v90
 
