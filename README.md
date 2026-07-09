@@ -40,7 +40,7 @@ Explore the open-source client integration tools and the **co-interlace** benchm
 | **Architecture** | Go Interlace (orchestration, LLM grounding), Deterministic DAGs, Docker, Local Shell CLI |
 | **AI Agents** | Claude, Gemini, Gemma (reasoning, tool-use, search) |
 | **Bioinformatics** | Sequence Alignment, Variant Calling, Molecular Modeling, Visualization |
-| **Data Formats** | Gob, GFF3, VCF, JSON, YAML, BED, PED, XML, FASTA, PDB |
+| **Data Formats** | Gob, OKF, GFF3, VCF, JSON, YAML, BED, PED, XML, FASTA, PDB |
 
 ## Current Data Domains
 
@@ -63,7 +63,7 @@ I have built parsers, encoders, model-based agents, state machines, and determin
 
 **Working on two problems:**
 
-1) LLMs can reason, but they are notoriously terrible calculators. Our Go application can perform the statistics. It perfectly holds the retrieved data and the full query context in memory, but it never reasons.
+1) LLMs can reason, but they are notoriously terrible calculators. Our Go application can perform the statistics flawlessly. It perfectly holds the retrieved data and the full query context in memory, but it never reasons.
 
 2) LLMs know everything, but they organize nothing. 
 
@@ -75,5 +75,5 @@ I have built parsers, encoders, model-based agents, state machines, and determin
 
 </div>
 
-###### July 9, 2026: main readme v87
+###### July 9, 2026: main readme v88
 
