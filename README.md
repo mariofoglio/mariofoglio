@@ -2,7 +2,7 @@
   
 # Mario Foglio
 
-**Data Refinery Architect · Systems Designer · Founder @ Quantome SAS**
+**Data Architect · Systems Designer · Founder @ Quantome SAS**
 
 **Transforming massive, noisy information into highly condensed, deterministic, and AI-ready knowledge assets.**
 
@@ -22,29 +22,29 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 ## What I Build
 
-* **The Quantome Engine (`go-interlace`)** — A private suite of 100+ Go programs and deterministic pipelines that refine raw, distributed data into a unified, high-density Gob data stack.
-* **The Integration System (`co-interlace`)** — Open-source shell tools and reference architectures that empower teams to stream our primary Gob assets directly into downstream databases and LLMs.
-* **Autonomous Agentic Systems** — LLM-assisted architectures capable of writing, compiling, and deploying complete Go applications that reason directly over local, deterministic arrays.
+* **Proprietary Refinery Engine (`go-interlace`)** — A private suite of 100+ Go programs and deterministic pipelines that refine raw, distributed data into a unified, ultra-condensed Gob data stack. Vertically partitioned, columnar data store that uses parallel arrays to support additive schema evolution. Applies advanced Directed Acyclic Graphs (DAGs) and Standard Operating Procedures (SOPs) to orchestrate multifaceted data consolidation. It persistently monitors processes, parses execution logs, prevents redundant billing runs, and automatically halts cluster submission upon detecting critical anomalies.
+* **Public Client Kit (`co-interlace`)** — Open-source Go SDK and a set of command-line tools intended to decode, search, and pipe Gob streams out of the permanent vault directly into downstream transient tools: databases, supercomputers, and local LLMs. 
+* **Autonomous Agentic Systems** — Refactored the Interlace codebase to adapt it for agentic development platforms and to use autonomous AI agents to plan, write, modify, test, and guide agents with detailed codebase examples when building new applications.
 * **Bioinformatics Pipelines** — End-to-end workflows for DNA sequencing analysis, ontology annotation, and massive-scale entity recognition.
 
 ## Where to Find More About My Work
 
-Explore the open-source client integration tools and the **interlace-ex** benchmark dataset at the [Quantome's GitHub repository](https://github.com/sas-quantome).
+Explore the open-source client integration tools and the **co-interlace** benchmark dataset at the [Quantome's GitHub repository](https://github.com/sas-quantome).
 
 ## Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Go (storing, streaming), Python (ML), C/C++, SQL |
-| **Infrastructure** | Google Cloud Platform, Cloud Run, Elasticsearch, GitHub |
+| **Infrastructure** | Google Cloud Platform, Cloud Run, Elasticsearch, High Perfomance Computing, Ollama |
 | **Architecture** | Go Interlace (orchestration, LLM grounding), Deterministic DAGs, Docker, Local Shell CLI |
-| **AI Agents** | Claude, Gemini, Gemma (reasoning, tool-use, pipeline generation) |
+| **AI Agents** | Claude, Gemini, Gemma (reasoning, tool-use, search) |
 | **Bioinformatics** | Sequence Alignment, Variant Calling, Molecular Modeling, Visualization |
 | **Data Formats** | Gob, GFF3, VCF, JSON, YAML, BED, PED, XML, FASTA, PDB |
 
-## Current Domain Expertise
+## Current Data Domains
 
-I have built parsers, encoders, model-based agents, state machines, and deterministic models for the following complex datasets:
+I have built parsers, encoders, model-based agents, state machines, and deterministic models to handle highly nested datasets:
 
 * **Gene, Protein & Disease:**
 
@@ -61,9 +61,11 @@ I have built parsers, encoders, model-based agents, state machines, and determin
 
 ## Current Focus
 
-- Expanding the `co-interlace` public integration system for frictionless enterprise adoption.
-- Designing entity–event–agent architectures for ultra-low-latency research platforms.
-- Developing LLM-assisted pipeline generation and self-deploying Go infrastructure.
+**Working on two problems:**
+
+1) LLMs can reason, but they are notoriously terrible calculators. Our Go application can perform the statistics. It perfectly holds the retrieved data and the full query context in memory, but it never reasons.
+
+2) LLMs know everything, but they organize nothing. 
 
 ## See [Quantome's GitHub repository](https://github.com/sas-quantome) for more details on data refinement.
 
@@ -73,5 +75,5 @@ I have built parsers, encoders, model-based agents, state machines, and determin
 
 </div>
 
-###### June 19, 2026: main readme v86
+###### July 9, 2026: main readme v87
 
