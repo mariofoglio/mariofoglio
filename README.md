@@ -12,7 +12,7 @@ Software in the wild is tested through the unexpected. I don't build theoretical
 
 I focus on extreme data refinement—stripping away infrastructure bloat and replacing it with ultra-condensed, parallel-array structures. My goal is to break the gravity of raw data, transforming gigabytes of unstructured "sludge" into lightning-fast, portable formats that can be queried in microseconds and fed natively into AI agent contexts.
 
-Whether for advanced biotech research or enterprise infrastructure, I build the engines that make data instantly accessible, tightly governed, and completely free from vendor lock-in.
+Whether for advanced biotech research or enterprise infrastructure, I build the engines that turn chaotic datasets into vertically partitioned, vendor-agnostic assets—making data accessible in milliseconds, strictly validated at the byte level, and completely free from database lock-in.
 
 <div align="center">
 
@@ -75,5 +75,5 @@ I have built parsers, encoders, model-based agents, state machines, and determin
 
 </div>
 
-###### July 9, 2026: main readme v90
+###### July 10, 2026: main readme v91
 
