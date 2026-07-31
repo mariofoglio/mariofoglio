@@ -4,13 +4,13 @@
 
 **Data Architect · Systems Designer · Founder @ Quantome SAS**
 
-**Transforming massive, noisy information into highly condensed, deterministic, and AI-ready knowledge assets.**
-
 </div>
+
+Work here focuses on transforming massive, noisy information into highly condensed, versioned, and AI-ready knowledge assets.
 
 Software in the wild is tested through the unexpected. I don't build theoretical data models; I engineer deterministic data pipelines forged by years of handling massive, fragmented datasets in fast-paced DNA technology centers.
 
-I focus on extreme data refinement—stripping away infrastructure bloat and replacing it with ultra-condensed, parallel-array structures. My goal is to break the gravity of raw data, transforming gigabytes of unstructured "sludge" into lightning-fast, portable formats that can be queried in microseconds and fed natively into AI agent contexts.
+I concentrate on extreme data refinement—stripping away infrastructure bloat and replacing it with ultra-condensed, parallel-array structures. My goal is to break the gravity of raw data, transforming gigabytes of unstructured "sludge" into lightning-fast, portable formats that can be queried in microseconds and fed natively into AI agent contexts.
 
 Whether for advanced biotech research or enterprise infrastructure, I build the engines that turn chaotic datasets into vertically partitioned, vendor-agnostic assets—making data accessible in milliseconds, strictly validated at the byte level, and completely free from database lock-in.
 
@@ -20,31 +20,19 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 </div>
 
-## What I Build
+## The Interlace Data Stack
 
-* **Proprietary Refinery Engine (`go-interlace`)** — A private suite of 100+ Go programs and deterministic pipelines that refine raw, distributed data into a unified, ultra-condensed Gob data stack. Vertically partitioned, columnar data store that uses parallel arrays to support additive schema evolution. Applies advanced Directed Acyclic Graphs (DAGs) and Standard Operating Procedures (SOPs) to orchestrate multifaceted data consolidation. It persistently monitors processes, parses execution logs, prevents redundant billing runs, and automatically halts cluster submission upon detecting critical anomalies.
-* **Public Client Kit (`co-interlace`)** — Open-source Go SDK and a set of command-line tools intended to decode, search, and pipe Gob streams out of the permanent vault directly into downstream transient tools: databases, supercomputers, and local LLMs. 
+* **Proprietary Refinery Engine (*go-interlace*)** — A private suite of 100+ Go programs and deterministic pipelines that refine raw, distributed data into a unified, ultra-condensed Gob data stack. Vertically partitioned, columnar data store that uses parallel arrays to support additive schema evolution. Applies advanced Directed Acyclic Graphs (DAGs) and Standard Operating Procedures (SOPs) to orchestrate multifaceted data consolidation. It persistently monitors processes, parses execution logs, prevents redundant billing runs, and automatically halts cluster submission upon detecting critical anomalies.
+* **Public Client Kit (*co-interlace*)** — Open-source Go SDK and a set of command-line tools intended to decode, search, and pipe Gob streams out of the permanent vault directly into downstream transient tools: databases, supercomputers, and local LLMs. 
 * **Autonomous Agentic Systems** —  The Interlace codebase has been refactored to support agentic development platforms and enable autonomous AI agents to plan, write, modify, test, and teach them using internal examples to build new applications.
 * **Bioinformatics Pipelines** — End-to-end workflows for DNA sequencing analysis, ontology annotation, and massive-scale entity recognition.
 
-## Where to Find More About My Work
+## Where to Go From Here
 
-Explore the open-source client integration tools and the **co-interlace** benchmark dataset at the [Quantome's GitHub repository](https://github.com/sas-quantome).
+* [Introduction to the *Interlace Architecture*](https://github.com/sas-quantome)
+* [The *co-interlace* repository](https://github.com/sas-quantome/co-interlace)
 
-## Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Go (storing, streaming), Python (ML), C/C++, SQL |
-| **Infrastructure** | Google Cloud Platform, Cloud Run, Elasticsearch, High Perfomance Computing, Ollama |
-| **Architecture** | Go Interlace (orchestration, LLM grounding), Deterministic DAGs, Docker, Local Shell CLI |
-| **AI Agents** | Claude, Gemini, Gemma (reasoning, tool-use, search) |
-| **Bioinformatics** | Sequence Alignment, Variant Calling, Molecular Modeling, Visualization |
-| **Data Formats** | Gob, OKF, GFF3, VCF, JSON, YAML, BED, PED, XML, FASTA, PDB |
-
-## Current Data Domains
-
-I have built parsers, encoders, model-based agents, state machines, and deterministic models to handle highly nested datasets:
+## Current Datasets
 
 * **Gene, Protein & Disease:**
 
@@ -57,23 +45,8 @@ I have built parsers, encoders, model-based agents, state machines, and determin
 * **Molecular Annotation:**
 
   [NCBI Genomes](https://www.ncbi.nlm.nih.gov/home/genomes/) · [RefSeq](https://www.ncbi.nlm.nih.gov/refseq/) · [Ensembl](https://www.ensembl.org/info/data/index.html) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [RNA Central](https://rnacentral.org/) · [UniProtKB](https://www.uniprot.org/help/uniprotkb) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/) · [GenAge](https://genomics.senescence.info/genes/index.html)
-  
 
-## Current Focus
+## Last Updated
 
-**Working on two problems:**
-
-1) LLMs can reason, but they are notoriously terrible calculators. Our Go application can perform the statistics flawlessly. It perfectly holds the retrieved data and the full query context in memory, but it never reasons.
-
-2) LLMs know everything, but organize nothing. Probabilistic agents try, but they lack determinism. 
-
-## See [Quantome's GitHub repository](https://github.com/sas-quantome) for more details on data refinement.
-
-<div align="center">
-
-![success](success.png)
-
-</div>
-
-###### July 10, 2026: main readme v91
+###### July 31, 2026: main readme v92
 
