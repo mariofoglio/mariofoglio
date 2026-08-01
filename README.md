@@ -24,19 +24,21 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 * **Proprietary Refinery Engine (*go-interlace*)** — A private suite of 100+ Go programs and deterministic pipelines that refine raw, distributed data into a unified, ultra-condensed Gob data stack. Vertically partitioned, columnar data store that uses parallel arrays to support additive schema evolution. Applies advanced Directed Acyclic Graphs (DAGs) and Standard Operating Procedures (SOPs) to orchestrate multifaceted data consolidation. It persistently monitors processes, parses execution logs, prevents redundant billing runs, and automatically halts cluster submission upon detecting critical anomalies.
 * **Public Client Kit (*co-interlace*)** — Open-source Go SDK and a set of command-line tools intended to decode, search, and pipe Gob streams out of the permanent vault directly into downstream transient tools: databases, supercomputers, and local LLMs. 
-* **Autonomous Agentic Systems** —  The Interlace codebase has been refactored to support agentic development platforms and enable autonomous AI agents to plan, write, modify, and test. AI agents can learn from the internal codebase as well as from the data-processing outputs footprinted in the Event and Entity directory paths core to the Interlace Architecture.
+* **Autonomous Agentic Systems** —  The **Interlace Codebase** has been refactored to support agentic development platforms and enable autonomous AI agents to plan, write, modify, and test. AI agents can learn from the internal codebase as well as from the data-processing outputs footprinted in the Event and Entity directory paths, which are core to the **Interlace Architecture**.
 * **Bioinformatics Pipelines** — End-to-end workflows for DNA sequencing analysis, ontology annotation, and massive-scale entity recognition.
 
-## Where to Go From Here
+## The Interlace Codebase
 
-* [Introduction to the *Interlace Architecture*](https://github.com/sas-quantome)
-* [The *co-interlace* repository](https://github.com/sas-quantome/co-interlace)
+* [**Interlace Architecture**](https://github.com/sas-quantome)
+* [**Co Interlace SDK**](https://github.com/sas-quantome/co-interlace)
 
-## Current Datasets
+## Data Examples
 
-* **Gene, Protein & Disease:**
+The following resources offer data in diverse formats, e.g., tab delimited files, JSON, XML, VCF, SAM/BAM, FASTQ, GFF3, GenBank, etc.
 
-  [STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [Gene DB](https://www.ncbi.nlm.nih.gov/gene/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
+* **Gene, Protein & RNA:**
+
+  [STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [Gene DB](https://www.ncbi.nlm.nih.gov/gene/) · [RNA Central](https://rnacentral.org/) · [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
   
 * **Clinical DNA Variation:**
 
@@ -44,7 +46,11 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
   
 * **Molecular Annotation:**
 
-  [NCBI Genomes](https://www.ncbi.nlm.nih.gov/home/genomes/) · [RefSeq](https://www.ncbi.nlm.nih.gov/refseq/) · [Ensembl](https://www.ensembl.org/info/data/index.html) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [RNA Central](https://rnacentral.org/) · [UniProtKB](https://www.uniprot.org/help/uniprotkb) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/) · [GenAge](https://genomics.senescence.info/genes/index.html)
+  [NCBI Genomes](https://www.ncbi.nlm.nih.gov/home/genomes/) · [RefSeq](https://www.ncbi.nlm.nih.gov/refseq/) · [Ensembl](https://www.ensembl.org/info/data/index.html) · [GTEx](https://www.gtexportal.org/home/downloads/adult-gtex) · [UniProtKB](https://www.uniprot.org/help/uniprotkb) · [EBI GOA](https://www.ebi.ac.uk/GOA/downloads) · [PhenomeXcan](https://zenodo.org/record/3911190/) · [GenAge](https://genomics.senescence.info/genes/index.html)
+
+* **Biomedical Literature, Disease & Ontology:**
+
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/) · [UMLS](https://www.nlm.nih.gov/research/umls/index.html) · [OBO Foundry](https://obofoundry.org/) · [EMBL-EBI Ontology](https://www.ebi.ac.uk/ols4/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
 
 ## Last Updated
 
