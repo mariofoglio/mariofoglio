@@ -34,7 +34,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 ## Data Examples
 
-The following resources offer data in diverse formats, e.g., tab delimited files, JSON, XML, VCF, SAM/BAM, FASTQ, GFF3, GenBank, etc.
+The following resources offer data in diverse formats, e.g., tab-delimited, JSON, XML, VCF, SAM/BAM, FASTQ, GFF3, GenBank, etc.
 
 * **Gene, RNA, & Protein:**
 
@@ -54,5 +54,5 @@ The following resources offer data in diverse formats, e.g., tab delimited files
 
 ## Last Updated
 
-###### August 1, 2026: main readme v97
+###### August 1, 2026: main readme v98
 
