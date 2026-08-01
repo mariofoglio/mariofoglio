@@ -34,7 +34,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 ## No Data, No Interlace
 
-Development of consolidation, refinement, storage, retrieval, and streaming methods is possible thanks to the institutions and people behind these exceptional resources:
+Development of consolidation, refinement, storage, retrieval, and streaming methods is possible thanks to the data provided by the institutions and people behind these exceptional resources:
 
 * **Gene, RNA, & Protein:**
 
@@ -56,5 +56,5 @@ Datasets are normally provided as text flat-files in diverse formats, e.g., tab-
 
 ## Last Updated
 
-###### August 1, 2026: main readme v99
+###### August 1, 2026: main readme v100
 
