@@ -32,9 +32,9 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 * [**Interlace Architecture**](https://github.com/sas-quantome)
 * [**Co Interlace SDK**](https://github.com/sas-quantome/co-interlace)
 
-## Data Examples
+## No Data, No Interlace
 
-The following resources offer data in diverse formats, e.g., tab-delimited, JSON, XML, VCF, SAM/BAM, FASTQ, GFF3, GenBank, etc.
+Development of consolidation, refinement, storage, retrieval, and streaming methods is possible thanks to the institutions and people behind these exceptional resources:
 
 * **Gene, RNA, & Protein:**
 
@@ -52,7 +52,9 @@ The following resources offer data in diverse formats, e.g., tab-delimited, JSON
 
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/) · [UMLS](https://www.nlm.nih.gov/research/umls/index.html) · [OBO Foundry](https://obofoundry.org/) · [EMBL-EBI Ontology](https://www.ebi.ac.uk/ols4/) · [Gene Ontology](https://www.geneontology.org/) · [Human Phenotype Ontology](https://hpo.jax.org/) · [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
 
+Datasets are normally provided as text flat-files in diverse formats, e.g., tab-delimited, JSON, XML, VCF, SAM/BAM, FASTQ, GFF3, GenBank, etc.
+
 ## Last Updated
 
-###### August 1, 2026: main readme v98
+###### August 1, 2026: main readme v99
 
