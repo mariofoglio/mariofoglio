@@ -10,7 +10,7 @@ Work here focuses on transforming massive, noisy information into highly condens
 
 Software in the wild is tested through the unexpected. I don't build theoretical data models; I engineer deterministic data pipelines forged by years of handling massive, fragmented datasets in fast-paced DNA technology centers.
 
-I concentrate on extreme data refinement—stripping away infrastructure bloat and replacing it with ultra-condensed, parallel-array structures. My goal is to break the gravity of raw data, transforming gigabytes of unstructured "sludge" into lightning-fast, portable formats that can be queried in microseconds and fed natively into AI agent contexts.
+I concentrate on extreme data refinement—stripping away infrastructure bloat and replacing it with ultra-condensed, parallel-array structures. My goal is to break the gravity of raw data, transforming terabytes of unstructured "sludge" into lightning-fast, portable formats that can be queried in microseconds and fed natively into AI agent contexts.
 
 Whether for advanced biotech research or enterprise infrastructure, I build the engines that turn chaotic datasets into vertically partitioned, vendor-agnostic assets—making data accessible in milliseconds, strictly validated at the byte level, and completely free from database lock-in.
 
@@ -24,7 +24,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 * **Proprietary Refinery Engine (*go-interlace*)** — A private suite of 100+ Go programs and deterministic pipelines that refine raw, distributed data into a unified, ultra-condensed Gob data stack. Vertically partitioned, columnar data store that uses parallel arrays to support additive schema evolution. Applies advanced Directed Acyclic Graphs (DAGs) and Standard Operating Procedures (SOPs) to orchestrate multifaceted data consolidation. It persistently monitors processes, parses execution logs, prevents redundant billing runs, and automatically halts cluster submission upon detecting critical anomalies.
 * **Public Client Kit (*co-interlace*)** — Open-source Go SDK and a set of command-line tools intended to decode, search, and pipe Gob streams out of the permanent vault directly into downstream transient tools: databases, supercomputers, and local LLMs. 
-* **Autonomous Agentic Systems** —  The Interlace codebase has been refactored to support agentic development platforms and enable autonomous AI agents to plan, write, modify, test, and teach them using internal examples to build new applications.
+* **Autonomous Agentic Systems** —  The Interlace codebase has been refactored to support agentic development platforms and enable autonomous AI agents to plan, write, modify, and test. AI agents can learn from the internal codebase as well as from the data-processing outputs footprinted in the Event and Entity directory paths core to the Interlace Architecture.
 * **Bioinformatics Pipelines** — End-to-end workflows for DNA sequencing analysis, ontology annotation, and massive-scale entity recognition.
 
 ## Where to Go From Here
@@ -48,5 +48,5 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 ## Last Updated
 
-###### July 31, 2026: main readme v92
+###### August 1, 2026: main readme v93
 
