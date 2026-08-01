@@ -23,7 +23,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 ## The Interlace Data Stack
 
 * **Proprietary Refinery Engine (*go-interlace*)** — A private suite of 100+ Go programs and deterministic pipelines that refine raw, distributed data into a unified, ultra-condensed Gob data stack. Vertically partitioned, columnar data store that uses parallel arrays to support additive schema evolution. Applies advanced Directed Acyclic Graphs (DAGs) and Standard Operating Procedures (SOPs) to orchestrate multifaceted data consolidation. It persistently monitors processes, parses execution logs, prevents redundant billing runs, and automatically halts cluster submission upon detecting critical anomalies.
-* **Public Client Kit (*co-interlace*)** — Open-source Go SDK and a set of command-line tools intended to decode, search, and pipe Gob streams out of the permanent vault directly into downstream transient tools: databases, supercomputers, and local LLMs. 
+* **Public Client Kit (*co-interlace*)** — Open-source Go SDK and a set of command-line tools intended to decode, search, and pipe Gob streams out of the permanent vault directly into standard POSIX workflows and downstream transient tools: databases, supercomputers, local LLMs, and edge computing systems. 
 * **Autonomous Agentic Systems** —  The **Interlace Codebase** has been refactored to support agentic development platforms and enable autonomous AI agents to plan, write, modify, and test. AI agents can learn from the internal codebase as well as from the data-processing outputs footprinted in the Event and Entity directory paths, which are core to the **Interlace Architecture**.
 * **Bioinformatics Pipelines** — End-to-end workflows for DNA sequencing analysis, ontology annotation, and massive-scale entity recognition.
 
@@ -36,7 +36,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 
 The following resources offer data in diverse formats, e.g., tab delimited files, JSON, XML, VCF, SAM/BAM, FASTQ, GFF3, GenBank, etc.
 
-* **Gene, Protein & RNA:**
+* **Gene, RNA, & Protein:**
 
   [STRING DB](https://string-db.org/) · [Reactome](https://reactome.org/) · [UniProt](https://www.uniprot.org/) · [Gene DB](https://www.ncbi.nlm.nih.gov/gene/) · [RNA Central](https://rnacentral.org/) · [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
   
@@ -54,5 +54,5 @@ The following resources offer data in diverse formats, e.g., tab delimited files
 
 ## Last Updated
 
-###### August 1, 2026: main readme v93
+###### August 1, 2026: main readme v95
 
