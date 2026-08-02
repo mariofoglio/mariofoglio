@@ -30,7 +30,7 @@ Whether for advanced biotech research or enterprise infrastructure, I build the 
 ## The Interlace Codebase
 
 * [**Interlace Architecture**](https://github.com/sas-quantome)
-* [**Co Interlace SDK**](https://github.com/sas-quantome/co-interlace)
+* [**Interlace SDK**](https://github.com/sas-quantome/co-interlace)
 
 ## No Data, No Interlace
 
@@ -56,5 +56,5 @@ Datasets are normally provided as text flat-files in diverse formats, e.g., tab-
 
 ## Last Updated
 
-###### August 1, 2026: main readme v100
+###### August 2, 2026: main readme v101
 
